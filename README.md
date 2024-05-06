@@ -1,3 +1,7 @@
+- 👋 Hi, I’m @amigamess (TheShark!)
+- 👀 I’m interested in retrocomputing, music, 3D and more...
+- 🌱 I’m currently learning Kicad, FreeCad...
+
 # 3D-Drum-Pad-Support
 3D Pad Support for cheap music stand.
 
